@@ -1,5 +1,5 @@
 <?php
-include("Meteg_Final_output/index.html");
+include_once("Meteg_Final_output/index.html");
 
 
 ?>
